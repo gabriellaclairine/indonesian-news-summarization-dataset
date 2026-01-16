@@ -1,6 +1,6 @@
 # AI-Assisted Reference Summary Generation Strategy
 
-To ensure high-quality ground truth data for the `dataset-textmining-final`, we utilized a **Few-Shot Prompting** strategy with explicit constraints. This approach provides the Large Language Model (LLM) with context-specific examples to guide the generation style, ensuring the output is abstractive, factual, and strictly within the 25–60 word limit.
+To ensure high-quality ground truth data for the `data_berita.csv`, we utilized a **Few-Shot Prompting** strategy with explicit constraints. This approach provides the Large Language Model (LLM) with context-specific examples to guide the generation style, ensuring the output is abstractive, factual, and strictly within the 25–60 word limit.
 
 ## 🧠 Prompt Engineering Architecture
 
